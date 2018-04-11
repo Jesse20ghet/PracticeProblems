@@ -21,5 +21,22 @@ namespace DailyCodingPracticeSolution
 
          return false;
       }
+
+      public bool SumsToKOnePass(List<int> numbers, int k)
+      {
+         var search = new bool[k + 1];
+         foreach(var n in numbers)
+         {
+            if (n > k)
+               continue;
+
+            if (search[n])
+               return true;
+            
+            search[k - n] = true;
+         }
+
+         return false;
+      }
    }
 }
