@@ -1,0 +1,16 @@
+D:\DailyCodingPractice\DailyCodingPracticeSolution\Problem1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\DailyCodingPractice\DailyCodingPracticeSolution\Problem1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\DailyCodingPractice\DailyCodingPracticeSolution\Problem1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\DailyCodingPractice\DailyCodingPracticeSolution\Problem1Tests\bin\Debug\Problem1Tests.dll
+D:\DailyCodingPractice\DailyCodingPracticeSolution\Problem1Tests\bin\Debug\Problem1Tests.pdb
+D:\DailyCodingPractice\DailyCodingPracticeSolution\Problem1Tests\bin\Debug\DailyCodingPracticeSolution.exe
+D:\DailyCodingPractice\DailyCodingPracticeSolution\Problem1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\DailyCodingPractice\DailyCodingPracticeSolution\Problem1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\DailyCodingPractice\DailyCodingPracticeSolution\Problem1Tests\bin\Debug\DailyCodingPracticeSolution.pdb
+D:\DailyCodingPractice\DailyCodingPracticeSolution\Problem1Tests\bin\Debug\DailyCodingPracticeSolution.exe.config
+D:\DailyCodingPractice\DailyCodingPracticeSolution\Problem1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\DailyCodingPractice\DailyCodingPracticeSolution\Problem1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\DailyCodingPractice\DailyCodingPracticeSolution\Problem1Tests\obj\Debug\Problem1Tests.csprojResolveAssemblyReference.cache
+D:\DailyCodingPractice\DailyCodingPracticeSolution\Problem1Tests\obj\Debug\Problem1Tests.csproj.CoreCompileInputs.cache
+D:\DailyCodingPractice\DailyCodingPracticeSolution\Problem1Tests\obj\Debug\Problem1Tests.dll
+D:\DailyCodingPractice\DailyCodingPracticeSolution\Problem1Tests\obj\Debug\Problem1Tests.pdb
