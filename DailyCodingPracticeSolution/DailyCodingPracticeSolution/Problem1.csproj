@@ -42,7 +42,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ProblemOneClass.cs" />
+    <Compile Include="DailyProgrammingChallenge\ProblemOneClass.cs" />
+    <Compile Include="DailyProgrammingChallenge\ProblemTwo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="ProjectEuler\Problem1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
